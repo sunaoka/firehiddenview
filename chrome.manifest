@@ -1,0 +1,7 @@
+content firehiddenview  chrome/content/firehiddenview/   xpcnativewrappers=no
+skin    firehiddenview  classic/1.0                      chrome/skin/classic/
+
+locale  firehiddenview  en-US       chrome/locale/en-US/
+locale  firehiddenview  ja-JP       chrome/locale/ja-JP/
+
+overlay chrome://firebug/content/firebugOverlay.xul      chrome://firehiddenview/content/firehiddenview.xul

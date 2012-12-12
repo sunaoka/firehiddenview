@@ -1,0 +1,40 @@
+
+.hiddenviewTable {
+	border: solid 1px #ddd;
+	border-collapse: collapse;
+}
+
+.hiddenviewHeader {
+	text-align: left;
+	background: -moz-linear-gradient(top, #d4d4d4 0%, #9c9c9c 100%);
+}
+
+.hiddenviewHeaderName {
+	width: 1%;
+	border: solid 1px #ddd;
+	padding: 3px 30px;
+	white-space: nowrap;
+}
+
+.hiddenviewHeaderValue {
+	width: 99%;
+	border: solid 1px #ddd;
+	padding: 3px 15px;
+}
+
+.hiddenviewName {
+	font-weight: bold;
+	width: 1%;
+	border: solid 1px #ddd;
+	padding: 1px 30px;
+}
+
+.hiddenviewValue {
+	width: 99%;
+	border: solid 1px #ddd;
+	padding: 1px 15px;
+}
+
+.hiddenviewRow:hover {
+	background: #eee;
+}

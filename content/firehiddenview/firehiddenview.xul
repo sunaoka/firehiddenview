@@ -1,0 +1,7 @@
+<?xml version="1.0"?> 
+
+<?xml-stylesheet href="chrome://firehiddenview/skin/firehiddenview.css"?>
+
+<overlay xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"> 
+    <script src="chrome://firehiddenview/content/firehiddenview.js" type="application/x-javascript"/>
+</overlay>
