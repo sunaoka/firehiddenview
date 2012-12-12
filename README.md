@@ -1,4 +1,5 @@
-firehiddenview
+FireHiddenView
 ==============
 
-Firebug View Hidden fields Extensionhttps://addons.mozilla.org/ja/firefox/addon/firehiddenview/
+Firebug View Hidden fields Extension  
+https://addons.mozilla.org/ja/firefox/addon/firehiddenview/
